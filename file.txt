@@ -1,0 +1,17 @@
+Hello World!
+
+-> vs code -> text editor
+-> git -> version control system
+-> github -> cloud storage 
+
+-> git init -> Initialize a local repository
+
+-> git config --global user.name "You name" -> set your name
+-> git config --global user.email "You email" -> set your email 
+
+-> git add . -> add all files
+-> git add <file_name_1> <file_name_2> -> add specific files 
+
+-> git commit -m "your commit message" -> commit changes to the repository
+
+
