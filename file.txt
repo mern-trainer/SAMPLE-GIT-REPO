@@ -4,6 +4,7 @@ Hello World!
 -> git -> version control system
 -> github -> cloud storage 
 
+
 -> git init -> Initialize a local repository
 
 -> git config --global user.name "You name" -> set your name
@@ -21,6 +22,7 @@ Hello World!
 
 -> git push <remote_name> <branch_name> -> push changes to the remote repository
 
+-> git clone <repository_url> -> clone a repository
 
 
 
